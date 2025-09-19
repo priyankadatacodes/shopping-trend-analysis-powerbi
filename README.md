@@ -42,5 +42,5 @@ To analyze customer shopping trends and provide actionable business insights on 
 - **Microsoft Excel** – Data cleaning & preparation  
 - **Power BI** – Dashboard creation & visualization  
 
--
+
 
