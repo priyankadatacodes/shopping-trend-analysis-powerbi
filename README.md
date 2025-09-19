@@ -2,6 +2,10 @@
 
 An interactive **Power BI dashboard** analyzing customer shopping trends, built after cleaning and preparing data in **Excel**. This project demonstrates my ability to perform **data cleaning, visualization, and business insights generation** as part of an end-to-end data analytics workflow.
 
+# Output
+
+!<img width="1416" height="794" alt="Screenshot 2025-09-19 154726" src="https://github.com/user-attachments/assets/31727f5a-124a-49b7-8624-9d857cf7089c" />
+
 ---
 
 ## Project Objective
